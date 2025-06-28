@@ -39,7 +39,7 @@ const Projects = () => {
       ],
       role: 'Developed the UI, integrated backend APIs, and tested user flows for all roles.',
       image: 'https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=800',
-      githubLink: 'https://github.com/Sindhuja-Edla/rolebased-backend',
+      githubLink: 'https://github.com/Sindhuja-Edla/role-based-backend',
       category: 'Security System'
     }
   ];
